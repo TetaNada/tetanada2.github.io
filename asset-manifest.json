@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tetanada2.github.io/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/tetanada2.github.io/static/js/main.ae936d91.chunk.js",
+    "main.js.map": "/tetanada2.github.io/static/js/main.ae936d91.chunk.js.map",
+    "runtime-main.js": "/tetanada2.github.io/static/js/runtime-main.21a9eda8.js",
+    "runtime-main.js.map": "/tetanada2.github.io/static/js/runtime-main.21a9eda8.js.map",
+    "static/js/2.2b725f29.chunk.js": "/tetanada2.github.io/static/js/2.2b725f29.chunk.js",
+    "static/js/2.2b725f29.chunk.js.map": "/tetanada2.github.io/static/js/2.2b725f29.chunk.js.map",
+    "static/js/3.8817af24.chunk.js": "/tetanada2.github.io/static/js/3.8817af24.chunk.js",
+    "static/js/3.8817af24.chunk.js.map": "/tetanada2.github.io/static/js/3.8817af24.chunk.js.map",
+    "index.html": "/tetanada2.github.io/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/tetanada2.github.io/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.2b725f29.chunk.js.LICENSE.txt": "/tetanada2.github.io/static/js/2.2b725f29.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/tetanada2.github.io/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.21a9eda8.js",
+    "static/js/2.2b725f29.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.ae936d91.chunk.js"
+  ]
+}
